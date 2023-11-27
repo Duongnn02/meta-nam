@@ -1,0 +1,14 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+	FALSE	/	FALSE		_js_datr	cnxUZcoGv2EGfCxr0k-74wY_
+	FALSE	/	FALSE		dpr	1.25
+	FALSE	/	FALSE		fr	0Ixu4jXyxckJysiYk..BlVHxy.yz.AAA.0.0.BlVHxy.AWX1WkjpaXU
+	FALSE	/	FALSE		sb	cnxUZcbo7yJix9NjBIvCYI78
+	FALSE	/	FALSE		wd	717x730
+.facebook.com	TRUE	/	TRUE		checkpoint	%7B%22u%22%3A100029130136436%2C%22t%22%3A1700035699%2C%22step%22%3A25%2C%22n%22%3A%22EMZo7tqXkQc%3D%22%2C%22inst%22%3A1126063241708003%2C%22f%22%3A193593390684083%2C%22st%22%3A%22c%22%2C%22aid%22%3Anull%2C%22ca%22%3Anull%2C%22la%22%3A%22%22%2C%22ta%22%3A%221700035700.ch.s%3Apw.tDBFAiEAsY0qe0ZWrXsg59NXPYrgoFeXa1ZygWQlfrrOnIXFx5QCIHQh5Xec_ON3fD-537OULQVwCAywjWI1nMslw0JX-Gzv%22%2C%22tfvaid%22%3Anull%2C%22tfvasec%22%3Anull%2C%22sat%22%3Anull%2C%22idg%22%3Afalse%2C%22cidue%22%3A%22%22%2C%22tfuln%22%3Anull%2C%22tfvri%22%3Anull%2C%22dss%22%3A%7B%22c%22%3A%22%22%7D%2C%22s%22%3A%22AWXMLPs3ghw3w5sPjz8%22%2C%22cs%22%3A%5B%5D%2C%22ssp%22%3A1%7D
+.facebook.com	TRUE	/	TRUE	1734595705	datr	cnxUZcoGv2EGfCxr0k-74wY_
+.facebook.com	TRUE	/	TRUE	1707811705	fr	0Ixu4jXyxckJysiYk..BlVHxy.yz.AAA.0.0.BlVHx2.AWUXD2tqLVg
+.facebook.com	TRUE	/	TRUE	1700640501	locale	vi_VN
+.facebook.com	TRUE	/	TRUE	1734595698	sb	cnxUZcbo7yJix9NjBIvCYI78

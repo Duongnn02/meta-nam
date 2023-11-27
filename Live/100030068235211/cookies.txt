@@ -1,0 +1,17 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+	FALSE	/	FALSE		_js_datr	ax9jZXUZzCHfFamVtNk5AzU1
+	FALSE	/	FALSE		checkpoint	%7B%22u%22%3A100030068235211%2C%22t%22%3A1700994924%2C%22step%22%3A21%2C%22n%22%3A%22D5Gm2TcsuBA%3D%22%2C%22inst%22%3A1075396453472619%2C%22f%22%3A193593390684083%2C%22st%22%3A%22c%22%2C%22aid%22%3Anull%2C%22ca%22%3Anull%2C%22la%22%3A%22%22%2C%22ta%22%3A%221700994927.ch.s%3Apw.tDBFAiBcH-oCAzpDRa6uoWl4R17fv6SMLZzAD6MiHS0YVjNNIQIhAMxaPCQFKV-ANIedrhBWAbPwqBxK1oTMfl92HAmonaNS%22%2C%22tfvaid%22%3A859456825643146%2C%22tfvasec%22%3A%22lFoP6Q2v8e-pgA%22%2C%22sat%22%3Anull%2C%22idg%22%3Afalse%2C%22cidue%22%3A%22%22%2C%22tfuln%22%3Anull%2C%22tfvri%22%3A%22AsTGE_wWmUBhkBttRTm3Mmo%22%2C%22tfvmt%22%3A%5B1%5D%2C%22dss%22%3A%7B%22c%22%3A%22%22%2C%22E%22%3A%22User+entered+login-approvals+code%22%7D%2C%22s%22%3A%22AWWJJOhl5MX4w5R_EjY%22%2C%22cs%22%3A%5B%5D%2C%22ssp%22%3A1%7D
+	FALSE	/	FALSE		datr	ax9jZXUZzCHfFamVtNk5AzU1
+	FALSE	/	FALSE		dpr	1.25
+	FALSE	/	FALSE		fr	0vOoywF5uebzn8MUj..BlYx_S.WF.AAA.0.0.BlYx_S.AWVMGCOuG1U
+	FALSE	/	FALSE		locale	en_US
+	FALSE	/	FALSE		sb	bB9jZYCO2r_RlBGtFmPdOeSr
+	FALSE	/	FALSE		wd	717x730
+.facebook.com	TRUE	/	TRUE		c_user	100030068235211
+.facebook.com	TRUE	/	TRUE	1735555042	datr	ax9jZXUZzCHfFamVtNk5AzU1
+.facebook.com	TRUE	/	TRUE	1708771042	fr	0vOoywF5uebzn8MUj.AWWgioqjXse0zWLPnIDzY4Dqn1o.BlYx_S.WF.AAA.0.0.BlYx_e.AWX3br_3-ug
+.facebook.com	TRUE	/	TRUE	1735555038	sb	bB9jZYCO2r_RlBGtFmPdOeSr
+.facebook.com	TRUE	/	TRUE		xs	2%3AaJgvKNiNQpeEhA%3A2%3A1700995036%3A-1%3A6296
